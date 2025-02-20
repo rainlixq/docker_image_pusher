@@ -1,2 +1,3 @@
 redis
 mysql:latest
+gitea/gitea:nightly-rootless
